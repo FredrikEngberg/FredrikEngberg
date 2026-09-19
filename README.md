@@ -1,79 +1,109 @@
-Hi, I'm Fredrik 👋
+# Hi, I'm Fredrik 👋
 
-Embedded Systems & IoT
+### Embedded Systems & IoT
 
-I'm studying software development with a focus on embedded systems and Internet of Things (IoT).
+I'm studying software development with a focus on **embedded systems and Internet of Things (IoT)**.
 
-I enjoy building practical projects where software, electronics and connected devices work together.
+I enjoy building practical solutions where **software, electronics, automation and connected devices** work together.
 
-🔧 Current focus
+---
 
-- Java & object-oriented programming
-- C / C++
-- ESP32 & embedded development
-- Linux
-- MQTT
-- IoT systems
-- Git & GitHub
-- Home Assistant & smart home integrations
+## 🔧 Technologies & Areas
 
-🚀 Projects
+`Java` · `C` · `C++` · `ESP32` · `Linux` · `MQTT` · `Git` · `GitHub` · `Home Assistant` · `IoT`
 
-📷 License Plate Parking System
-A system for detecting vehicle registration plates and automatically managing parking information.
+Currently developing my knowledge in:
 
-Focus: Computer vision · Automation · APIs · System integration
+- Embedded systems
+- Object-oriented programming
+- ESP32 development
+- Sensors and electronics
+- IoT communication
+- APIs and integrations
+- Automation
+- IoT security
 
-Status: In development
+---
 
+## 🚀 Featured Projects
 
-🏠 Smart Summer House
+### 📷 License Plate Parking System
+
+Camera-based system for detecting vehicle registration plates and automating parking information.
+
+**Focus:**  
+Computer Vision · Automation · APIs · System Integration
+
+**Status:** In development
+
+---
+
+### 🏠 Smart Summer House
+
 An IoT platform for monitoring and controlling a summer house using sensors, ESP32 devices and Home Assistant.
 
-Planned monitoring includes:
+Areas include:
 
 - Temperature and humidity
-- Water systems
+- Water monitoring
 - Septic tank level
 - Weather and rainfall
 - Snow depth
-- Energy and heating
+- Heating and energy control
 
-Focus: ESP32 · MQTT · Sensors · Home Assistant · IoT
+**Focus:**  
+ESP32 · MQTT · Sensors · Home Assistant · IoT
 
-Status: In development
+**Status:** In development
+
+---
+
+### 🔋 Battery Tester
+
+A compact battery tester designed to estimate remaining battery capacity for common battery types.
+
+**Focus:**  
+Electronics · Embedded Systems · ESP32
+
+**Status:** Planning / prototyping
 
 
-🔋 Battery Tester
-A compact battery tester designed to estimate remaining battery capacity for several common battery types.
+---
 
-Focus: Electronics · ESP32 · Embedded software
+## 🧪 Learning & Development
 
-Status: Planning / prototyping
+I also document smaller programming and embedded exercises while developing my skills in:
 
+- Java and OOP
+- Git and GitHub
+- ESP32
+- Electronics
+- Embedded programming
 
-🧪 Learning & Development
+---
 
-I'm continuously documenting smaller programming and embedded exercises as I develop my skills in:
+## 🎯 Interests
 
-`Java` · `C` · `C++` · `ESP32` · `Git` · `Linux` · `IoT`
-
-🎯 What I'm interested in
-
-I'm particularly interested in:
+I'm especially interested in:
 
 - Embedded systems
-- IoT architecture
-- Connected devices
+- Internet of Things
 - Hardware/software integration
+- Connected devices
 - Automation
 - Edge computing
 - IoT security
 
-🔗 Connect
+---
 
-- [GitHub](https://github.com/FredrikEngberg)
+## 🔗 Connect
 
+🌐 [Portfolio](https://fredrikengberg.github.io/portfolio.html)
 
+💼 [LinkedIn](https://www.linkedin.com/in/fredrik-engberg-5380a014a/)
 
-Building practical systems one project at a time.
+💻 [GitHub](https://github.com/FredrikEngberg)
+
+---
+
+**Build · Learn · Connect**
