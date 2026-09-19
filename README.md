@@ -2,7 +2,6 @@
   <img src="assets/github-profile-banner.png" alt="Fredrik Engberg - Embedded Systems & IoT" width="100%">
 </p>
 
-<br>
 
 # Hi, I'm Fredrik 👋
 
@@ -33,7 +32,7 @@ Currently developing my knowledge in:
 
 ## 🚀 Featured Projects
 
-### 📷 License Plate Parking System
+### 📷 [License Plate Parking System](https://github.com/FredrikEngberg/license-plate-parking-system)
 
 Camera-based system for detecting vehicle registration plates and automating parking information.
 
