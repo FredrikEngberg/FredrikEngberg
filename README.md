@@ -5,11 +5,9 @@
 
 # Hi, I'm Fredrik 👋
 
-### Embedded Systems & IoT
+I build practical solutions where **software, electronics, automation and connected devices** work together.
 
-I'm studying software development with a focus on **embedded systems and Internet of Things (IoT)**.
-
-I enjoy building practical solutions where **software, electronics, automation and connected devices** work together.
+I'm currently developing my skills in embedded software and IoT.
 
 ---
 
