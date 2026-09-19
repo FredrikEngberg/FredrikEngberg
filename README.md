@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/github-profile-banner.png" alt="Fredrik Engberg - Embedded Systems & IoT" width="100%">
+</p>
+
+<br>
+
 # Hi, I'm Fredrik 👋
 
 ### Embedded Systems & IoT
